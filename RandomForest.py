@@ -1,8 +1,9 @@
+"""
+Quelle: https://github.com/faizann24/Authorship-Attribution
+"""
+
 import os
 import pandas as pd
-import io
-import sys
-import argparse
 import numpy as np
 
 from sklearn.metrics import *
